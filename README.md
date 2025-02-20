@@ -2,7 +2,7 @@
 
 ## 프로젝트
 
-### [HARU]([서버](https://github.com/modern-agile-team/5term-mini-back),[클라이언트](https://github.com/modern-agile-team/5trem-mini-front))
+### HARU ([서버](https://github.com/modern-agile-team/5term-mini-back),[클라이언트](https://github.com/modern-agile-team/5trem-mini-front))
 ---
 
 ### [이름 미정](https://github.com/modern-agile-team/5term-main-back)
