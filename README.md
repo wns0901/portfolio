@@ -41,6 +41,7 @@
   - 권한 설정 기능 구현
 - 리액트에서 context api를 사용하여 access token과 권한 정보를 받아오는 기능 구현 (클라이언트)
 - 로그인, 회원가입 페이지 구현 (클라이언트)
+- docker와 git action을 이용한 CI/CD 기능 구현 (서버, 클라이언트)
 
 ## [모던 자바스크립트 Deep Dive 책 스터디](https://github.com/wns0901/js-deep-dive-study/tree/main)
 ### 개요
