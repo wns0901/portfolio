@@ -1,6 +1,6 @@
 # 장준영 포토폴리오
 
-## HARU ([서버](https://github.com/wns0901/5term-mini-back)),[클라이언트](https://github.com/modern-agile-team/5trem-mini-front))
+## HARU ([서버](https://github.com/wns0901/5term-mini-back),[클라이언트](https://github.com/modern-agile-team/5trem-mini-front))
 ### 개요
 - 친구들과 일정을 공유하며 서로의 todo list에 댓글을 달며 소통고 개인의 일기를 쓸 수 있는 캘린더 웹 사이트.  
 
