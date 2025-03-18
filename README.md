@@ -8,6 +8,7 @@
 - 서버만 참여
 - 유저들의 todo list CRUD 구현 (서버)
 - todo list의 댓글 (서버)
+- 이메일로 비밀번호 찾기 기능 구현
 - 다른 팀원들과 함께 데이터베이스 설계 
 
 ## [이름 미정](https://github.com/wns0901/5term-main-back) (미완)
