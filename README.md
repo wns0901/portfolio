@@ -11,7 +11,7 @@
 - 이메일로 비밀번호 찾기 기능 구현
 - 다른 팀원들과 함께 데이터베이스 설계 
 
-## [이름 미정](https://github.com/wns0901/5term-main-back) (미완)
+## [스터디 관리 사이트](https://github.com/wns0901/5term-main-back) (미완)
 ### 개요
 - 스터디를 모집하고 그 스터디 일정을 관리하는 사이트
 
